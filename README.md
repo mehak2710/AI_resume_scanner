@@ -11,7 +11,7 @@ AI Resume Scanner leverages artificial intelligence to analyze resumes against j
 - **ATS Compatibility Analysis** - Validates resume format, structure, and parsing reliability
 - **Keyword Matching** - Compares resume content against job description requirements
 - **Match Score Generation** - Provides percentage-based compatibility rating
-- **Content Quality Assessment** - Evaluates achievements, impact statements, and relevance
+- **Multiple Resume Adding** - Allows uploading and analyzing multiple resumes at once
 - **Real-time Feedback** - Delivers instant improvement suggestions
 - **Format Validation** - Checks for ATS-friendly formatting practices
 
